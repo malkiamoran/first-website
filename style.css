@@ -1,0 +1,28 @@
+header {
+    height: 75px;
+    border-bottom: 3px solid black;
+    background: black;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+    font-size: 20px;
+}
+
+.nav-links {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    width: 40%;
+}
